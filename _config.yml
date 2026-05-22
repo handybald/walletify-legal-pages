@@ -1,0 +1,11 @@
+title: Walletify Legal
+description: Legal documents for the Walletify portfolio tracker app.
+baseurl: "/walletify-legal-pages"
+theme: jekyll-theme-minimal
+permalink: /:basename
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
