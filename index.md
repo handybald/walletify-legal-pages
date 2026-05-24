@@ -11,4 +11,4 @@ This page links to Walletify's legal and privacy documents.
 - [Terms of Service](terms)
 - [Account Deletion](delete-account)
 
-For questions, contact: `walletifyapp@yandex.com`
+For questions, contact: `support@walletify.org`

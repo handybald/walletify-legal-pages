@@ -5,7 +5,7 @@ permalink: /delete-account
 
 # Walletify Account Deletion
 
-**Last updated:** May 22, 2026
+**Last updated:** May 24, 2026
 
 This page explains how to delete your Walletify account and associated app data.
 
@@ -24,7 +24,7 @@ For security, you may need to sign out and sign in again before deleting your ac
 
 If you cannot access the app or prefer to request deletion by email, contact:
 
-`walletifyapp@yandex.com`
+`support@walletify.org`
 
 Include the email address associated with your Walletify account. Do not include passwords or sensitive financial information in your message.
 
@@ -60,4 +60,4 @@ In-app deletion begins immediately. Manual deletion requests submitted by email 
 
 For account deletion questions, contact:
 
-`walletifyapp@yandex.com`
+`support@walletify.org`

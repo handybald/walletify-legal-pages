@@ -8,10 +8,10 @@ Static Markdown pages for Walletify's legal URLs, published with GitHub Pages.
 
 | Page | File | Published URL |
 |------|------|---------------|
-| Home / index | `index.md` | `https://handybald.github.io/walletify-legal-pages/` |
-| Privacy Policy | `privacy.md` | `https://handybald.github.io/walletify-legal-pages/privacy` |
-| Terms of Service | `terms.md` | `https://handybald.github.io/walletify-legal-pages/terms` |
-| Account Deletion | `delete-account.md` | `https://handybald.github.io/walletify-legal-pages/delete-account` |
+| Home / index | `index.md` | `https://www.walletify.org/` |
+| Privacy Policy | `privacy.md` | `https://www.walletify.org/privacy` |
+| Terms of Service | `terms.md` | `https://www.walletify.org/terms` |
+| Account Deletion | `delete-account.md` | `https://www.walletify.org/delete-account` |
 
 
 ---
@@ -32,9 +32,9 @@ Static Markdown pages for Walletify's legal URLs, published with GitHub Pages.
 4. **Wait 1–3 minutes** for GitHub Pages to build and publish. The published URL will appear at the top of the Settings → Pages screen.
 
 5. **Verify** each URL resolves correctly before using it in store submissions:
-   - `https://handybald.github.io/walletify-legal-pages/privacy`
-   - `https://handybald.github.io/walletify-legal-pages/terms`
-   - `https://handybald.github.io/walletify-legal-pages/delete-account`
+   - `https://www.walletify.org/privacy`
+   - `https://www.walletify.org/terms`
+   - `https://www.walletify.org/delete-account`
 
 ---
 
@@ -44,8 +44,8 @@ Once the pages are live, add these two secrets to the **Walletify app** reposito
 (Settings → Secrets and variables → Actions → Repository secrets):
 
 ```
-PRIVACY_POLICY_URL  =  https://handybald.github.io/walletify-legal-pages/privacy
-TERMS_OF_SERVICE_URL  =  https://handybald.github.io/walletify-legal-pages/terms
+PRIVACY_POLICY_URL  =  https://www.walletify.org/privacy
+TERMS_OF_SERVICE_URL  =  https://www.walletify.org/terms
 ```
 
 The CI pipeline injects these values into the app binary at build time. No code change is needed — just set the secrets and push to `main`.
@@ -59,7 +59,7 @@ Use this URL in:
 - Your Privacy Policy (already linked in the `privacy.md` page)
 
 ```
-https://handybald.github.io/walletify-legal-pages/delete-account
+https://www.walletify.org/delete-account
 ```
 
 ---

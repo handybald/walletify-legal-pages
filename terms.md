@@ -5,7 +5,7 @@ permalink: /terms
 
 # Walletify Terms of Service
 
-**Last updated:** May 22, 2026
+**Last updated:** May 24, 2026
 
 These Terms of Service govern your use of Walletify.
 
@@ -13,7 +13,7 @@ These Terms of Service govern your use of Walletify.
 
 **App name:** Walletify  
 **Developer:** Omer Gencay  
-**Contact:** walletifyapp@yandex.com
+**Contact:** support@walletify.org
 
 ## Acceptance of terms
 
@@ -97,4 +97,4 @@ These Terms may be updated from time to time. Continued use of Walletify after u
 
 For questions about these Terms, contact:
 
-`walletifyapp@yandex.com`
+`support@walletify.org`

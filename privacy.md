@@ -5,7 +5,7 @@ permalink: /privacy
 
 # Walletify Privacy Policy
 
-**Last updated:** May 23, 2026
+**Last updated:** May 24, 2026
 
 Walletify is a personal portfolio tracking app. This Privacy Policy explains what information Walletify collects, how it is used, and what choices users have.
 
@@ -13,7 +13,7 @@ Walletify is a personal portfolio tracking app. This Privacy Policy explains wha
 
 **App name:** Walletify  
 **Developer:** Omer Gencay  
-**Contact:** walletifyapp@yandex.com
+**Contact:** support@walletify.org
 
 ## Information Walletify may collect
 
@@ -137,4 +137,4 @@ This Privacy Policy may be updated from time to time. The updated version will b
 
 For privacy questions, contact:
 
-`walletifyapp@yandex.com`
+`support@walletify.org`
