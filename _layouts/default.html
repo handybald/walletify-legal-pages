@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'tr' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.seo_title | default: page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
+  <link rel="canonical" href="{{ site.url }}{{ page.url | remove: 'index.html' }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav">
+      <a href="/" class="nav-logo">Walletify</a>
+      <ul class="nav-links">
+        {% if page.lang == 'en' %}
+        <li><a href="/en"{% if page.url == '/en' %} class="active"{% endif %}>Home</a></li>
+        <li><a href="/privacy"{% if page.url == '/privacy' %} class="active"{% endif %}>Privacy</a></li>
+        <li><a href="/terms"{% if page.url == '/terms' %} class="active"{% endif %}>Terms</a></li>
+        <li><a href="/delete-account"{% if page.url == '/delete-account' %} class="active"{% endif %}>Account Deletion</a></li>
+        <li><a href="/" class="lang-switch">Türkçe</a></li>
+        {% else %}
+        <li><a href="/"{% if page.url == '/' %} class="active"{% endif %}>Ana Sayfa</a></li>
+        <li><a href="/privacy"{% if page.url == '/privacy' %} class="active"{% endif %}>Gizlilik</a></li>
+        <li><a href="/terms"{% if page.url == '/terms' %} class="active"{% endif %}>Kullanım Koşulları</a></li>
+        <li><a href="/delete-account"{% if page.url == '/delete-account' %} class="active"{% endif %}>Hesap Silme</a></li>
+        <li><a href="/en" class="lang-switch">English</a></li>
+        {% endif %}
+      </ul>
+    </nav>
+  </header>
+
+  <main class="site-main">
+    {% if page.landing %}
+    {{ content }}
+    {% else %}
+    <div class="prose">
+      {{ content }}
+    </div>
+    {% endif %}
+  </main>
+
+  <footer class="site-footer">
+    {% if page.lang == 'en' %}
+    <p>Walletify provides portfolio tracking tools only; it is not financial advice.</p>
+    <p><a href="/privacy">Privacy</a> &middot; <a href="/terms">Terms</a> &middot; <a href="/delete-account">Account Deletion</a></p>
+    {% else %}
+    <p>Walletify portföy takip araçları sunar; finansal tavsiye değildir.</p>
+    <p><a href="/privacy">Gizlilik</a> &middot; <a href="/terms">Kullanım Koşulları</a> &middot; <a href="/delete-account">Hesap Silme</a></p>
+    {% endif %}
+    <p class="footer-copy">&copy; {{ 'now' | date: "%Y" }} Walletify</p>
+  </footer>
+</body>
+</html>
