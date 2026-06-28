@@ -13,7 +13,7 @@ Walletify is a personal portfolio tracking app. This Privacy Policy explains wha
 ## Developer
 
 **App name:** Walletify  
-**Developer:** Omer Gencay  
+**Developer:** otfudev  
 **Contact:** support@walletify.org
 
 ## Information Walletify may collect

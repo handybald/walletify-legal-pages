@@ -13,7 +13,7 @@ Walletify kişisel portföy takip uygulamasıdır. Bu Gizlilik Politikası, Wall
 ## Geliştirici
 
 **Uygulama adı:** Walletify  
-**Geliştirici:** Omer Gencay  
+**Geliştirici:** otfudev  
 **İletişim:** support@walletify.org
 
 ## Walletify hangi bilgileri işleyebilir?

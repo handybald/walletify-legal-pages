@@ -13,7 +13,7 @@ These Terms of Service govern your use of Walletify.
 ## Developer
 
 **App name:** Walletify  
-**Developer:** Omer Gencay  
+**Developer:** otfudev  
 **Contact:** support@walletify.org
 
 ## Acceptance of terms

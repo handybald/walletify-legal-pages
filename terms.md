@@ -13,7 +13,7 @@ Bu Kullanım Koşulları, Walletify uygulamasını kullanımınızı düzenler.
 ## Geliştirici
 
 **Uygulama adı:** Walletify  
-**Geliştirici:** Omer Gencay  
+**Geliştirici:** otfudev  
 **İletişim:** support@walletify.org
 
 ## Koşulların kabulü
