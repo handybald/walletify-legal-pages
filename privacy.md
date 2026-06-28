@@ -1,140 +1,121 @@
 ---
-title: Walletify Privacy Policy
+title: Walletify Gizlilik Politikası
 permalink: /privacy
+lang: tr
 ---
 
-# Walletify Privacy Policy
+# Walletify Gizlilik Politikası
 
-**Last updated:** May 24, 2026
+**Son güncelleme:** 28 Haziran 2026
 
-Walletify is a personal portfolio tracking app. This Privacy Policy explains what information Walletify collects, how it is used, and what choices users have.
+Walletify kişisel portföy takip uygulamasıdır. Bu Gizlilik Politikası, Walletify'nin hangi bilgileri toplayabileceğini, bu bilgileri nasıl kullandığını ve kullanıcıların hangi seçeneklere sahip olduğunu açıklar.
 
-## Developer
+## Geliştirici
 
-**App name:** Walletify  
-**Developer:** Omer Gencay  
-**Contact:** support@walletify.org
+**Uygulama adı:** Walletify  
+**Geliştirici:** Omer Gencay  
+**İletişim:** support@walletify.org
 
-## Information Walletify may collect
+## Walletify hangi bilgileri işleyebilir?
 
-Walletify may collect or process the following information depending on which features you use:
+Kullandığınız özelliklere bağlı olarak Walletify aşağıdaki bilgileri toplayabilir veya işleyebilir:
 
-- **Account information:** email address, display name, authentication provider ID, and user ID.
-- **Portfolio information:** assets, tickers, fund codes, currencies, transaction records, quantities, prices, cost basis, and portfolio history.
-- **Imported transaction data:** asset or ticker names, transaction type (buy/sell/dividend), transaction date, quantity, price, currency, and brokerage or bank document details — extracted from files or connected email sources if you choose to use import features.
-- **Gmail data:** email metadata, email body text, and PDF attachment content, if you explicitly connect Gmail for transaction import (see [Gmail data usage](#gmail-data-usage) below).
-- **App usage and diagnostics:** crash logs, performance data, device model, OS version, and app metadata.
-- **Advertising identifiers:** advertising ID or consent status, if ads are enabled and applicable.
-- **Subscription and purchase status:** subscription tier, purchase history, and entitlement status.
+- **Hesap bilgileri:** e-posta adresi, görünen ad, kimlik doğrulama sağlayıcısı kimliği ve kullanıcı kimliği.
+- **Portföy bilgileri:** varlıklar, hisse kodları, fon kodları, para birimleri, işlem kayıtları, miktarlar, fiyatlar, maliyet bilgileri ve portföy geçmişi.
+- **İçe aktarılan işlem verileri:** varlık veya hisse adı, işlem türü, işlem tarihi, miktar, fiyat, para birimi ve aracı kurum/banka belge detayları.
+- **Gmail verileri:** Gmail ile işlem içe aktarma özelliğini açıkça bağlamanız halinde e-posta meta verileri, e-posta gövde metni ve PDF ek içeriği.
+- **Kullanım ve tanılama verileri:** çökme kayıtları, performans verileri, cihaz modeli, işletim sistemi sürümü ve uygulama meta verileri.
+- **Reklam bilgileri:** reklam kimliği veya izin durumu, reklamlar etkinse ve ilgili mevzuata uygunsa.
+- **Abonelik ve satın alma durumu:** abonelik seviyesi, satın alma geçmişi ve yetki/erişim durumu.
 
-Walletify does not provide investment advice and does not act as a brokerage, bank, payment institution, or financial advisor.
+Walletify yatırım tavsiyesi vermez; aracı kurum, banka, ödeme kuruluşu veya finansal danışman değildir.
 
-## How Walletify uses information
+## Bilgiler nasıl kullanılır?
 
-Walletify uses information to:
+Walletify bilgileri aşağıdaki amaçlarla kullanır:
 
-- Provide portfolio tracking and P&L calculations.
-- Sync user data between devices, if cloud sync is enabled.
-- Import and parse investment transaction data from supported sources.
-- Fetch market prices and portfolio valuation data.
-- Authenticate users and protect accounts.
-- Provide subscriptions or premium features.
-- Display ads, if ads are enabled and the user has not subscribed to Premium.
-- Monitor app stability, crashes, and performance.
-- Improve app functionality and user experience.
+- Portföy takibi ve kar/zarar hesaplamaları sağlamak.
+- Bulut senkronizasyonu etkinse verileri cihazlar arasında eşitlemek.
+- Desteklenen kaynaklardan yatırım işlemlerini içe aktarmak ve ayrıştırmak.
+- Piyasa fiyatları ve portföy değerleme verilerini getirmek.
+- Kullanıcı kimliğini doğrulamak ve hesap güvenliğini sağlamak.
+- Abonelik ve premium özellikleri sunmak.
+- Premium olmayan kullanıcılara reklam göstermek.
+- Uygulama kararlılığını, çökmeleri ve performansı izlemek.
+- Uygulama işlevlerini ve kullanıcı deneyimini geliştirmek.
 
-## Gmail data usage
+## Gmail veri kullanımı
 
-**Gmail connection is optional.** You can use Walletify and enter transactions manually without ever connecting Gmail.
+**Gmail bağlantısı isteğe bağlıdır.** Walletify'yi Gmail bağlamadan, işlemlerinizi elle girerek kullanabilirsiniz.
 
-If you choose to connect Gmail, Walletify requests **read-only** Gmail access. Walletify cannot send, delete, or modify any email or attachment.
+Gmail'i bağlamayı seçerseniz Walletify yalnızca okuma izni ister. Walletify e-posta veya ek gönderemez, silemez ya da değiştiremez.
 
-**What Walletify does with Gmail access:**
+Walletify Gmail erişimini sadece desteklenen yatırım ve aracı kurum e-postalarını bulmak, ilgili mesaj içeriklerini ve PDF eklerini okumak ve kişisel portföy takibiniz için işlem bilgilerini çıkarmak amacıyla kullanır.
 
-- Searches your Gmail inbox for emails from known brokerage and investment institution sender addresses.
-- Reads the body text of those emails to identify investment transaction details.
-- Reads PDF attachments in those emails to extract investment transaction details from brokerage documents.
-- Extracted data may include: asset name or ticker, fund code, transaction type (buy/sell/fund purchase), transaction date, quantity, price, currency, and brokerage or bank document context.
-- Extracted data is stored locally on your device and, for premium users with cloud sync enabled, in your personal Firestore database.
+Walletify Gmail verilerini satmaz, reklam veya reklam hedefleme amacıyla kullanmaz, profil oluşturmak için kullanmaz, yapay zeka veya makine öğrenimi modellerini eğitmek için kullanmaz.
 
-**What Walletify does NOT do with Gmail data:**
+Gmail bağlantısını uygulama içinden kesebilir veya Google Hesabı güvenlik ayarlarınızdan [myaccount.google.com/permissions](https://myaccount.google.com/permissions) adresinde Walletify erişimini kaldırabilirsiniz.
 
-- Walletify does not sell Gmail data to any third party.
-- Walletify does not use Gmail data for advertising or ad targeting purposes.
-- Walletify does not use Gmail data to build profiles or train AI or machine learning models.
-- Walletify does not share Gmail data with any party except as strictly necessary to provide the app's core import and storage functionality (e.g., your personal cloud storage if you use cloud sync).
-- Walletify does not read, store, or use the content of any email or attachment that is not from a known investment or brokerage source.
+Walletify'nin Google API'lerinden aldığı bilgileri kullanımı ve aktarması, Sınırlı Kullanım gereklilikleri dahil olmak üzere [Google API Hizmetleri Kullanıcı Verileri Politikası](https://developers.google.com/terms/api-services-user-data-policy) ile uyumludur.
 
-**User controls:**
+## Üçüncü taraf hizmetler ve SDK'lar
 
-- You can disconnect Gmail at any time within the app (Import from Email → Disconnect Gmail).
-- You can also revoke Walletify's Gmail access directly from your Google Account security settings at [myaccount.google.com/permissions](https://myaccount.google.com/permissions).
-- You can delete your Walletify account and all associated data (see [Account deletion](#account-deletion)).
+Walletify aşağıdaki üçüncü taraf hizmetleri kullanabilir. Her hizmet kendi gizlilik politikasına göre veri işleyebilir.
 
-**Google API Limited Use:**
-
-Walletify's use and transfer of information received from Google APIs will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
-
-## Third-party services and SDKs
-
-Walletify may use the following third-party services. Each service may process data according to its own privacy policy.
-
-| Service | Purpose |
+| Hizmet | Amaç |
 |---|---|
-| Firebase Authentication | Sign-in and account management |
-| Firebase Firestore | Cloud sync and app data storage (premium) |
-| Firebase Analytics | Usage analytics |
-| Firebase Crashlytics | Crash reporting and diagnostics |
-| Google Sign-In | Google account authentication |
-| Gmail API | Optional investment email import (read-only, user-initiated) |
-| Google Mobile Ads (AdMob) | Advertising (free plan only; removed for premium users) |
-| RevenueCat | Subscription and purchase entitlement management |
-| Google Play Billing | In-app purchases on Android |
-| Finnhub, Twelve Data, Yahoo Finance via RapidAPI, TEFAS | Market price and fund data lookup |
-| Apple Sign-In | Authentication (iOS, future) |
+| Firebase Authentication | Giriş ve hesap yönetimi |
+| Firebase Firestore | Bulut senkronizasyonu ve uygulama veri depolama |
+| Firebase Analytics | Kullanım analitiği |
+| Firebase Crashlytics | Çökme raporlama ve tanılama |
+| Google Sign-In | Google hesabı ile giriş |
+| Sign in with Apple | Apple hesabı ile giriş |
+| Gmail API | İsteğe bağlı yatırım e-postası içe aktarma |
+| Google Mobile Ads / AdMob | Ücretsiz kullanıcılar için reklam |
+| RevenueCat | Abonelik ve satın alma yetki yönetimi |
+| Google Play Billing / App Store | Uygulama içi satın alma ve abonelikler |
+| Finnhub, Twelve Data, Yahoo Finance via RapidAPI, TEFAS | Piyasa fiyatı ve fon verisi sorgulama |
 
-## Data sharing
+## Veri paylaşımı
 
-Walletify does not sell personal data. Data may be shared with third-party processors only as needed to provide app functionality, authentication, analytics, crash reporting, advertising, subscriptions, cloud sync, or market price fetching.
+Walletify kişisel verileri satmaz. Veriler; uygulama işlevleri, kimlik doğrulama, analitik, çökme raporlama, reklam, abonelik, bulut senkronizasyonu veya piyasa fiyatı sorgulama gibi hizmetleri sağlamak için gerekli olduğu ölçüde üçüncü taraf veri işleyenlerle paylaşılabilir.
 
-Walletify may also disclose information if required by law or to protect users, the app, or others from fraud, abuse, or security threats.
+Walletify ayrıca kanunen gerekli olması veya kullanıcıları, uygulamayı ya da başkalarını dolandırıcılık, kötüye kullanım veya güvenlik tehditlerine karşı korumak için bilgileri açıklayabilir.
 
-## Data retention
+## Veri saklama
 
-Walletify retains account and portfolio data while your account is active or as needed to provide the service. Some diagnostic, analytics, purchase, or legal records may be retained for a limited period as required for security, fraud prevention, legal compliance, tax, accounting, or operational purposes.
+Walletify hesap ve portföy verilerini hesabınız aktif olduğu sürece veya hizmeti sağlamak için gerekli olduğu müddetçe saklar. Bazı tanılama, analitik, satın alma veya yasal kayıtlar; güvenlik, dolandırıcılık önleme, yasal uyum, vergi, muhasebe veya operasyonel nedenlerle sınırlı süreyle saklanabilir.
 
-## Account deletion
+## Hesap silme
 
-You can request deletion of your Walletify account and associated app data.
+Walletify hesabınızın ve ilişkili uygulama verilerinizin silinmesini uygulama içinden talep edebilirsiniz:
 
-In the app, go to:
+**Hesap -> Hesabı Sil**
 
-**Account → Delete Account**
+Ayrıca hesap silme sayfasını kullanabilirsiniz:
 
-You can also use the account deletion page:
+[Hesap Silme](/delete-account)
 
-[Account Deletion](delete-account)
+Silme işleminden sonra, kanunen gerekli olan veya güvenlik, dolandırıcılık önleme, uyuşmazlık çözümü, ödeme ve abonelik yükümlülükleri için gerekli sınırlı kayıtlar saklanabilir.
 
-After deletion, some limited records may be retained where required by law, security, fraud prevention, dispute resolution, or payment and subscription obligations.
+## Güvenlik
 
-## Security
+Walletify kullanıcı verilerini korumak için makul teknik ve organizasyonel önlemler kullanır. Ancak hiçbir iletim veya saklama yöntemi tamamen güvenli değildir.
 
-Walletify uses reasonable technical and organizational safeguards to protect user data. However, no method of transmission or storage is completely secure.
+## Çocuklar
 
-## Children
+Walletify 13 yaş altı çocuklara yönelik değildir. Bir çocuğun kişisel bilgi sağladığını düşünüyorsanız gerekli işlemleri yapabilmemiz için bizimle iletişime geçin.
 
-Walletify is not intended for children under 13. If you believe a child has provided personal information, contact us so we can take appropriate action.
+## Uluslararası kullanıcılar
 
-## International users
+Bilgileriniz, Walletify'nin kullandığı üçüncü taraf hizmetlere bağlı olarak kendi ülkeniz dışındaki ülkelerde işlenebilir.
 
-Your information may be processed in countries other than your own, depending on the third-party services used by Walletify.
+## Politika değişiklikleri
 
-## Changes to this policy
+Bu Gizlilik Politikası zaman zaman güncellenebilir. Güncel sürüm, yeni "Son güncelleme" tarihiyle bu sayfada yayınlanır.
 
-This Privacy Policy may be updated from time to time. The updated version will be posted on this page with a new "Last updated" date.
+## İletişim
 
-## Contact
-
-For privacy questions, contact:
+Gizlilikle ilgili sorular için:
 
 `support@walletify.org`

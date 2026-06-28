@@ -1,100 +1,101 @@
 ---
-title: Walletify Terms of Service
+title: Walletify Kullanım Koşulları
 permalink: /terms
+lang: tr
 ---
 
-# Walletify Terms of Service
+# Walletify Kullanım Koşulları
 
-**Last updated:** May 24, 2026
+**Son güncelleme:** 28 Haziran 2026
 
-These Terms of Service govern your use of Walletify.
+Bu Kullanım Koşulları, Walletify uygulamasını kullanımınızı düzenler.
 
-## Developer
+## Geliştirici
 
-**App name:** Walletify  
-**Developer:** Omer Gencay  
-**Contact:** support@walletify.org
+**Uygulama adı:** Walletify  
+**Geliştirici:** Omer Gencay  
+**İletişim:** support@walletify.org
 
-## Acceptance of terms
+## Koşulların kabulü
 
-By using Walletify, you agree to these Terms. If you do not agree, do not use the app.
+Walletify'yi kullanarak bu Koşulları kabul etmiş olursunuz. Kabul etmiyorsanız uygulamayı kullanmayın.
 
-## What Walletify does
+## Walletify ne yapar?
 
-Walletify is a portfolio tracking app. It helps users record assets, import transactions, track prices, and calculate portfolio values and P&L.
+Walletify bir portföy takip uygulamasıdır. Kullanıcıların varlıklarını kaydetmesine, işlemleri içe aktarmasına, fiyatları takip etmesine ve portföy değeri ile kar/zarar hesaplamasına yardımcı olur.
 
-Walletify is not a bank, brokerage, investment advisor, payment institution, tax advisor, or financial planning service.
+Walletify banka, aracı kurum, yatırım danışmanı, ödeme kuruluşu, vergi danışmanı veya finansal planlama hizmeti değildir.
 
-## No financial advice
+## Yatırım tavsiyesi değildir
 
-Walletify does not provide financial, investment, tax, accounting, or legal advice. Any information shown in the app is for personal tracking and informational purposes only.
+Walletify finansal, yatırım, vergi, muhasebe veya hukuki tavsiye vermez. Uygulamada gösterilen bilgiler yalnızca kişisel takip ve bilgilendirme amaçlıdır.
 
-You are solely responsible for your financial decisions. Always verify data independently before making investment decisions.
+Finansal kararlarınızdan yalnızca siz sorumlusunuz. Yatırım kararı vermeden önce verileri bağımsız kaynaklardan doğrulayın.
 
-## Data accuracy
+## Veri doğruluğu
 
-Walletify may fetch market prices, currency rates, fund data, or other financial information from third-party providers. This data may be delayed, inaccurate, unavailable, incomplete, or changed by providers without notice.
+Walletify piyasa fiyatları, döviz kurları, fon verileri veya diğer finansal bilgileri üçüncü taraf sağlayıcılardan alabilir. Bu veriler gecikmeli, hatalı, eksik, erişilemez veya sağlayıcılar tarafından haber verilmeksizin değiştirilmiş olabilir.
 
-Walletify does not guarantee that prices, calculations, imports, or P&L values are accurate or suitable for trading, tax reporting, or official records.
+Walletify fiyatların, hesaplamaların, içe aktarılan verilerin veya kar/zarar değerlerinin işlem yapma, vergi beyanı veya resmi kayıtlar için doğru ya da uygun olduğunu garanti etmez.
 
-## User responsibilities
+## Kullanıcı sorumlulukları
 
-You agree to:
+Şunları kabul edersiniz:
 
-- Provide accurate information when using the app.
-- Keep your account credentials secure.
-- Review imported transaction data before relying on it.
-- Use the app only for lawful purposes.
-- Not misuse, reverse engineer, attack, overload, or interfere with the app or its services.
+- Uygulamayı kullanırken doğru bilgi sağlamak.
+- Hesap bilgilerinizi güvenli tutmak.
+- İçe aktarılan işlem verilerini kullanmadan önce kontrol etmek.
+- Uygulamayı yalnızca hukuka uygun amaçlarla kullanmak.
+- Uygulamayı veya hizmetleri kötüye kullanmamak, tersine mühendislik yapmamak, saldırmamak, aşırı yüklememek veya engellememek.
 
-## Email and file imports
+## E-posta ve dosya içe aktarma
 
-If you use email or file import features, you are responsible for ensuring you have the right to process the imported information. Walletify attempts to extract transaction information for your personal portfolio tracking, but imported data may require manual review and correction.
+E-posta veya dosya içe aktarma özelliklerini kullanırsanız, içe aktarılan bilgileri işleme hakkına sahip olduğunuzdan siz sorumlusunuz. Walletify kişisel portföy takibiniz için işlem bilgilerini çıkarmaya çalışır, ancak içe aktarılan veriler elle kontrol ve düzeltme gerektirebilir.
 
-## Subscriptions and purchases
+## Abonelikler ve satın almalar
 
-Walletify may offer paid features, subscriptions, or premium access. Purchases are processed through the applicable app store or payment provider.
+Walletify ücretli özellikler, abonelikler veya premium erişim sunabilir. Satın almalar ilgili uygulama mağazası veya ödeme sağlayıcısı üzerinden işlenir.
 
-Subscription billing, cancellation, refunds, and renewal terms are managed by Google Play, where Walletify is currently distributed. If Walletify becomes available on additional platforms in the future, the platform where the purchase was made governs billing and refund terms.
+Abonelik faturalandırması, iptal, iade ve yenileme koşulları satın alma yapılan platform tarafından yönetilir; örneğin Google Play veya App Store.
 
-## Ads
+## Reklamlar
 
-Walletify may display ads to free users. Ads may be served by third-party advertising providers such as Google AdMob, subject to user consent and applicable law.
+Walletify ücretsiz kullanıcılara reklam gösterebilir. Reklamlar, kullanıcı izni ve ilgili mevzuata tabi olarak Google AdMob gibi üçüncü taraf reklam sağlayıcıları tarafından sunulabilir.
 
-## Account deletion
+## Hesap silme
 
-You may delete your account in the app:
+Hesabınızı uygulama içinden silebilirsiniz:
 
-**Account → Delete Account**
+**Hesap -> Hesabı Sil**
 
-You may also visit:
+Ayrıca şu sayfayı ziyaret edebilirsiniz:
 
-[Account Deletion](delete-account)
+[Hesap Silme](/delete-account)
 
-Some limited records may be retained where required by law, security, fraud prevention, dispute resolution, or payment and subscription obligations.
+Kanunen gerekli olan veya güvenlik, dolandırıcılık önleme, uyuşmazlık çözümü, ödeme ve abonelik yükümlülükleri için gerekli sınırlı kayıtlar saklanabilir.
 
-## Intellectual property
+## Fikri mülkiyet
 
-Walletify, including its design, branding, code, and content, is owned by the developer or licensed to the developer. You may not copy, distribute, modify, or create derivative works from Walletify except as permitted by law.
+Walletify'nin tasarımı, markası, kodu ve içeriği geliştiriciye aittir veya geliştiriciye lisanslanmıştır. Kanunen izin verilen durumlar dışında Walletify'yi kopyalayamaz, dağıtamaz, değiştiremez veya türev çalışmalar oluşturamazsınız.
 
-## Service availability
+## Hizmet kullanılabilirliği
 
-Walletify may be updated, interrupted, suspended, changed, or discontinued at any time. Some features depend on third-party services and may stop working if those services change, fail, or become unavailable.
+Walletify herhangi bir zamanda güncellenebilir, kesintiye uğrayabilir, askıya alınabilir, değiştirilebilir veya sonlandırılabilir. Bazı özellikler üçüncü taraf hizmetlere bağlıdır ve bu hizmetler değişirse, arızalanırsa veya kullanılamaz hale gelirse çalışmayı durdurabilir.
 
-## Limitation of liability
+## Sorumluluğun sınırlandırılması
 
-To the maximum extent permitted by law, Walletify and its developer are not liable for indirect, incidental, special, consequential, or financial losses arising from use of the app, including investment losses, inaccurate data, missed opportunities, data loss, service interruptions, or third-party service failures.
+Yürürlükteki hukukun izin verdiği azami ölçüde Walletify ve geliştiricisi; yatırım kayıpları, hatalı veri, kaçırılan fırsatlar, veri kaybı, hizmet kesintileri veya üçüncü taraf hizmet arızaları dahil olmak üzere uygulamanın kullanımından doğan dolaylı, arızi, özel, sonuçsal veya finansal kayıplardan sorumlu değildir.
 
-## Disclaimer
+## Feragat
 
-Walletify is provided "as is" and "as available," without warranties of any kind, express or implied, including warranties of accuracy, availability, merchantability, fitness for a particular purpose, or non-infringement.
+Walletify, doğruluk, erişilebilirlik, ticarete elverişlilik, belirli bir amaca uygunluk veya ihlal etmeme dahil açık veya zımni hiçbir garanti olmaksızın "olduğu gibi" ve "mevcut olduğu şekilde" sunulur.
 
-## Changes to these terms
+## Koşullardaki değişiklikler
 
-These Terms may be updated from time to time. Continued use of Walletify after updates means you accept the updated Terms.
+Bu Koşullar zaman zaman güncellenebilir. Güncellemelerden sonra Walletify'yi kullanmaya devam etmeniz güncel Koşulları kabul ettiğiniz anlamına gelir.
 
-## Contact
+## İletişim
 
-For questions about these Terms, contact:
+Bu Koşullar hakkında sorular için:
 
 `support@walletify.org`
