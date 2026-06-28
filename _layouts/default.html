@@ -16,8 +16,8 @@
       <ul class="nav-links">
         {% if page.lang == 'en' %}
         <li><a href="/en"{% if page.url == '/en' %} class="active"{% endif %}>Home</a></li>
-        <li><a href="/privacy"{% if page.url == '/privacy' %} class="active"{% endif %}>Privacy</a></li>
-        <li><a href="/terms"{% if page.url == '/terms' %} class="active"{% endif %}>Terms</a></li>
+        <li><a href="/en/privacy"{% if page.url == '/en/privacy' %} class="active"{% endif %}>Privacy</a></li>
+        <li><a href="/en/terms"{% if page.url == '/en/terms' %} class="active"{% endif %}>Terms</a></li>
         <li><a href="/delete-account"{% if page.url == '/delete-account' %} class="active"{% endif %}>Account Deletion</a></li>
         <li><a href="/" class="lang-switch">Türkçe</a></li>
         {% else %}
@@ -44,7 +44,7 @@
   <footer class="site-footer">
     {% if page.lang == 'en' %}
     <p>Walletify provides portfolio tracking tools only; it is not financial advice.</p>
-    <p><a href="/privacy">Privacy</a> &middot; <a href="/terms">Terms</a> &middot; <a href="/delete-account">Account Deletion</a></p>
+    <p><a href="/en/privacy">Privacy</a> &middot; <a href="/en/terms">Terms</a> &middot; <a href="/delete-account">Account Deletion</a></p>
     {% else %}
     <p>Walletify portföy takip araçları sunar; finansal tavsiye değildir.</p>
     <p><a href="/privacy">Gizlilik</a> &middot; <a href="/terms">Kullanım Koşulları</a> &middot; <a href="/delete-account">Hesap Silme</a></p>
