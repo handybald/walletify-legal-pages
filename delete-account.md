@@ -1,63 +1,64 @@
 ---
-title: Walletify Account Deletion
+title: Walletify Hesap Silme
 permalink: /delete-account
+lang: tr
 ---
 
-# Walletify Account Deletion
+# Walletify Hesap Silme
 
-**Last updated:** May 24, 2026
+**Son güncelleme:** 28 Haziran 2026
 
-This page explains how to delete your Walletify account and associated app data.
+Bu sayfa, Walletify hesabınızı ve ilişkili uygulama verilerinizi nasıl silebileceğinizi açıklar.
 
-## Delete your account in the app
+## Hesabınızı uygulama içinden silme
 
-If you can access your Walletify account, use the in-app deletion flow:
+Walletify hesabınıza erişebiliyorsanız uygulama içindeki silme akışını kullanın:
 
-1. Open Walletify.
-2. Go to **Account**.
-3. Tap **Delete Account**.
-4. Confirm deletion.
+1. Walletify'yi açın.
+2. **Hesap** bölümüne gidin.
+3. **Hesabı Sil** seçeneğine dokunun.
+4. Silme işlemini onaylayın.
 
-For security, you may need to sign out and sign in again before deleting your account.
+Güvenlik nedeniyle hesabınızı silmeden önce çıkış yapıp tekrar giriş yapmanız gerekebilir.
 
-## If you cannot access the app
+## Uygulamaya erişemiyorsanız
 
-If you cannot access the app or prefer to request deletion by email, contact:
+Uygulamaya erişemiyorsanız veya silme talebini e-posta ile iletmek istiyorsanız şu adresten iletişime geçin:
 
 `support@walletify.org`
 
-Include the email address associated with your Walletify account. Do not include passwords or sensitive financial information in your message.
+Mesajınıza Walletify hesabınızla ilişkili e-posta adresini ekleyin. Şifre veya hassas finansal bilgi göndermeyin.
 
-## What data is deleted
+## Hangi veriler silinir?
 
-When your account is deleted, Walletify will delete or disconnect account data associated with your user account, including app profile data and portfolio data stored by Walletify, where technically and legally possible.
+Hesabınız silindiğinde Walletify, teknik ve yasal olarak mümkün olduğu ölçüde kullanıcı hesabınızla ilişkili hesap verilerini ve Walletify tarafından saklanan portföy verilerini siler veya bağlantısını keser.
 
-This may include:
+Bunlar şunları içerebilir:
 
-- Account profile data.
-- Portfolio records.
-- Asset records.
-- Transaction records.
-- App preferences linked to the account.
-- Cloud sync data linked to the account.
+- Hesap profil verileri.
+- Portföy kayıtları.
+- Varlık kayıtları.
+- İşlem kayıtları.
+- Hesaba bağlı uygulama tercihleri.
+- Hesaba bağlı bulut senkronizasyon verileri.
 
-## What may be retained
+## Hangi veriler saklanabilir?
 
-Some limited information may be retained where required for:
+Bazı sınırlı bilgiler aşağıdaki nedenlerle saklanabilir:
 
-- Legal compliance.
-- Security and fraud prevention.
-- Subscription, billing, refund, tax, or accounting records.
-- Crash logs, diagnostics, or aggregated analytics that are not reasonably linked to an active user account.
+- Yasal uyum.
+- Güvenlik ve dolandırıcılık önleme.
+- Abonelik, faturalandırma, iade, vergi veya muhasebe kayıtları.
+- Aktif bir kullanıcı hesabıyla makul şekilde ilişkilendirilemeyen çökme kayıtları, tanılama veya toplulaştırılmış analitik verileri.
 
-Third-party platforms such as Google Play, RevenueCat, Firebase, and AdMob may retain records according to their own policies.
+Google Play, App Store, RevenueCat, Firebase ve AdMob gibi üçüncü taraf platformlar kendi politikalarına göre kayıt saklayabilir.
 
-## Processing time
+## İşlem süresi
 
-In-app deletion begins immediately. Manual deletion requests submitted by email may take up to 30 days to process.
+Uygulama içinden silme işlemi hemen başlar. E-posta ile gönderilen manuel silme taleplerinin işlenmesi 30 güne kadar sürebilir.
 
-## Contact
+## İletişim
 
-For account deletion questions, contact:
+Hesap silme ile ilgili sorular için:
 
 `support@walletify.org`
