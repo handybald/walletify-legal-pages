@@ -10,9 +10,12 @@ Static GitHub Pages site for [walletify.org](https://www.walletify.org). Turkish
 |-----|------|---------|
 | `/` | `index.md` | Turkish landing page (default) |
 | `/en` | `en.html` | English landing page |
-| `/privacy` | `privacy.md` | Privacy Policy |
-| `/terms` | `terms.md` | Terms of Service |
-| `/delete-account` | `delete-account.md` | Account Deletion instructions |
+| `/privacy` | `privacy.md` | Turkish Privacy Policy |
+| `/terms` | `terms.md` | Turkish Terms of Service |
+| `/en/privacy` | `en/privacy.md` | English Privacy Policy |
+| `/en/terms` | `en/terms.md` | English Terms of Service |
+| `/delete-account` | `delete-account.md` | Turkish Account Deletion instructions |
+| `/en/delete-account` | `en/delete-account.md` | English Account Deletion instructions |
 | `/android` | `android.html` | Redirect → Google Play |
 | `/ios` | `ios.html` | Redirect → App Store |
 
@@ -30,11 +33,15 @@ walletify-legal-pages/
 │       └── style.css     # All styles
 ├── index.md              # Turkish landing page (/)
 ├── en.html               # English landing page (/en)
+├── en/
+│   ├── privacy.md        # English privacy policy (/en/privacy)
+│   ├── terms.md          # English terms of service (/en/terms)
+│   └── delete-account.md # English account deletion (/en/delete-account)
 ├── android.html          # Store redirect (/android)
 ├── ios.html              # Store redirect (/ios)
-├── privacy.md            # /privacy
-├── terms.md              # /terms
-├── delete-account.md     # /delete-account
+├── privacy.md            # Turkish privacy policy (/privacy)
+├── terms.md              # Turkish terms of service (/terms)
+├── delete-account.md     # Turkish account deletion (/delete-account)
 └── CNAME                 # www.walletify.org
 ```
 
@@ -51,7 +58,10 @@ walletify-legal-pages/
    - `https://www.walletify.org/en`
    - `https://www.walletify.org/privacy`
    - `https://www.walletify.org/terms`
+   - `https://www.walletify.org/en/privacy`
+   - `https://www.walletify.org/en/terms`
    - `https://www.walletify.org/delete-account`
+   - `https://www.walletify.org/en/delete-account`
    - `https://www.walletify.org/android` → Google Play redirect
    - `https://www.walletify.org/ios` → App Store redirect
 
@@ -66,6 +76,13 @@ PRIVACY_POLICY_URL    = https://www.walletify.org/privacy
 TERMS_OF_SERVICE_URL  = https://www.walletify.org/terms
 ```
 
+The app can also route English users to:
+
+```
+https://www.walletify.org/en/privacy
+https://www.walletify.org/en/terms
+```
+
 ---
 
 ## Store submission URLs
@@ -73,8 +90,11 @@ TERMS_OF_SERVICE_URL  = https://www.walletify.org/terms
 | Use | URL |
 |-----|-----|
 | Google Play – Account deletion | `https://www.walletify.org/delete-account` |
-| Privacy Policy | `https://www.walletify.org/privacy` |
-| Terms of Service | `https://www.walletify.org/terms` |
+| Account deletion (EN) | `https://www.walletify.org/en/delete-account` |
+| Privacy Policy (TR) | `https://www.walletify.org/privacy` |
+| Terms of Service (TR) | `https://www.walletify.org/terms` |
+| Privacy Policy (EN) | `https://www.walletify.org/en/privacy` |
+| Terms of Service (EN) | `https://www.walletify.org/en/terms` |
 
 ---
 
@@ -84,7 +104,8 @@ TERMS_OF_SERVICE_URL  = https://www.walletify.org/terms
 - **Landing page copy** (EN): edit `en.html`
 - **Navigation / layout**: edit `_layouts/default.html`
 - **Styles**: edit `assets/css/style.css`
-- **Legal pages**: edit the relevant `.md` file and push — GitHub Pages rebuilds within minutes
+- **Legal pages (TR)**: edit `privacy.md` or `terms.md`
+- **Legal pages (EN)**: edit `en/privacy.md`, `en/terms.md`, or `en/delete-account.md`
 
 Do not rename or delete `_config.yml` or `CNAME`.
 
@@ -94,6 +115,6 @@ Do not rename or delete `_config.yml` or `CNAME`.
 
 - No build tools, Node, npm, or React. Static Jekyll only.
 - All styles in `assets/css/style.css`; no external CSS frameworks.
-- Legal pages are in English. Nav defaults to Turkish (site is Turkish-first).
+- Legal pages are localized: Turkish at `/privacy` and `/terms`, English at `/en/privacy` and `/en/terms`.
 - Store redirect pages use `<meta http-equiv="refresh">` + `window.location.replace` for broad compatibility.
 - Pages are not financial advice. The disclaimer is on all landing pages.

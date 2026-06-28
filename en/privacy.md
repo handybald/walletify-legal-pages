@@ -94,7 +94,7 @@ You can request deletion of your Walletify account and associated app data in th
 
 You can also use the account deletion page:
 
-[Account Deletion](/delete-account)
+[Account Deletion](/en/delete-account)
 
 After deletion, some limited records may be retained where required by law, security, fraud prevention, dispute resolution, or payment and subscription obligations.
 

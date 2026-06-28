@@ -70,7 +70,7 @@ You may delete your account in the app:
 
 You may also visit:
 
-[Account Deletion](/delete-account)
+[Account Deletion](/en/delete-account)
 
 Some limited records may be retained where required by law, security, fraud prevention, dispute resolution, or payment and subscription obligations.
 
